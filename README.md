@@ -4,7 +4,7 @@ Group Members:
 
 * Mahdi Al Shaikh (ID: 1230328)
 * Mohammad Humidan (ID: 1231474)
-* Mais Deek (ID: XXXXX)
+* Mais Deek (ID: 1211298)
 
 ## About
 
